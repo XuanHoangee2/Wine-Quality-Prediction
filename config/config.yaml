@@ -5,3 +5,8 @@ data_ingestion:
   source_URL: "https://github.com/XuanHoangee2/Wine-Quality-Prediction/raw/refs/heads/main/winequality-red.zip"
   local_data_file: "artifacts/data_ingestion/winequality-red.zip"
   unzip_dir: "artifacts/data_ingestion/"
+
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_dir: artifacts/data_ingestion/winequality-red.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
