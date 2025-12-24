@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4edc04b8231c4d97a63c7a2b5bb437c9/artifacts
+end_time: 1766588781582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4edc04b8231c4d97a63c7a2b5bb437c9
+run_name: skittish-snail-240
+run_uuid: 4edc04b8231c4d97a63c7a2b5bb437c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766588775403
+status: 4
+tags: []
+user_id: HP

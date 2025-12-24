@@ -11,3 +11,15 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+## dagshub
+
+import dagshub
+dagshub.init(repo_owner='XuanHoangee2', repo_name='Wine-Quality-Prediction', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+

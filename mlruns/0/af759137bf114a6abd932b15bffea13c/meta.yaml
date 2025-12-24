@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af759137bf114a6abd932b15bffea13c/artifacts
+end_time: 1766588775395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af759137bf114a6abd932b15bffea13c
+run_name: gentle-quail-343
+run_uuid: af759137bf114a6abd932b15bffea13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766588775362
+status: 3
+tags: []
+user_id: HP
